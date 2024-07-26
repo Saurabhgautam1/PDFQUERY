@@ -1,21 +1,9 @@
 # PDFQUERY
-Sure, I'll remove the code snippets and provide a concise README file without them:
 
----
 
 # PDF Query Using Langchain
 
 This project demonstrates how to use Langchain to query a PDF document. It involves extracting text from a PDF, splitting the text into manageable chunks, embedding the text using OpenAI's embeddings, and then storing and querying these embeddings using FAISS.
-
-## Installation
-
-To get started, clone the repository and install the required packages:
-
-```sh
-git clone <repository-url>
-cd <repository-directory>
-pip install -r requirements.txt
-```
 
 Ensure you have the following packages installed:
 
